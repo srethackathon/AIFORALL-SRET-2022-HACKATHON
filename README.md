@@ -1,4 +1,5 @@
 # HACK@SRET-2022
+
 <b>ABOUT THE CHALLENGE</b>
 <p>“Artificial Intelligence for ALL” is one of the National AI strategies in India. This hackathon
 aims to expand the idea to meet the 2030 agenda for Sustainable Development, adopted by all
@@ -32,6 +33,12 @@ https://www.ai-for-sdgs.academy/topics
 
 <b> Reference to Data Set</b>
 https://ai4good.org/what-we-do/sdg-data-catalog/
+
+<b><object data="https://github.com/srethackathon/AIFORALL-SRET-2022-HACKATHON/blob/main/HACK%40SRET%2C2022-BROCHURE.pdf" width="700px" height="700px">
+    <embed src="https://github.com/srethackathon/AIFORALL-SRET-2022-HACKATHON/blob/main/HACK%40SRET%2C2022-BROCHURE.pdf">
+        <p>BROCHURE LINK <a href="https://github.com/srethackathon/AIFORALL-SRET-2022-HACKATHON/blob/main/HACK%40SRET%2C2022-BROCHURE.pdf">Download PDF</a>.</p>
+    </embed>
+</object></b>
 
  
 <b>Benefits for the participants<b>
