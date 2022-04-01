@@ -13,6 +13,18 @@ Goals (SDGs). Combining AI and SDGs will assist all industries in designing a be
 that meets present demands, while not jeopardising future generations due to climate change
 or other big concerns.</p>
 
+<b>OBJECTIVE</b>
+<p> This Hackathon is a call to develop strategies that improve health and education, action to
+end poverty, reduce inequality, promote economic growth, protect the planet and ensure that
+all people enjoy peace and prosperity, while building on the Millennium Development Goals
+(MDGs).
+The hackathon is organized in partnership with industry and academic institutions, with a
+common vision for sustainable development.
+Focus of the event is on promoting economic development, environmental protection and
+social welfare.</p>
+<b> ABOUT SRET </b>
+<p>Sri Ramachandra Faculty of Engineering and Technology(SRET) is part of Sri Ramachandra Institute of Higher Education and Research (Deemed to be University) Chennai, India, with 2021 NIRF rank of 14 (for medical),rank of 47 (for overall) and 2021 NAAC grade of A++.
+SRET offers B.Tech, B.Sc, M.Sc and Ph.D in ComputerScience and Engineering with Artificial Intelligence and Machine Learning, Cyber Security, Internet of Things, Data Analytics, Medical Engineering and Engineering Systems.</p>
 
 
 <b> Reference to Problem Statement </b>
